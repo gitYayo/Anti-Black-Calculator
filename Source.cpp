@@ -10,6 +10,8 @@
  // #include <ThickAnimeGirl> // 
 ///////////////////////////////
 
+//Yayo is super cool!
+
 using namespace std;
 
 int n1 = 0;
